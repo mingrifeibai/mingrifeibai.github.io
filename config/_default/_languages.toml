@@ -3,4 +3,9 @@
     languageName      = "English"
     languagedirection = "ltr"
     title             = "Example Site"
+    weight            = 2
+[zh]
+    languageName      = "中文"
+    languagedirection = "ltr"
+    title             = "你的博客标题"
     weight            = 1
