@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl      = "https://mingrifeibai.github.io/links/"
+baseurl      = "https://mingrifeibai.github.io/"
 languageCode = "zh"
 title        = "风之旅舍"
 
