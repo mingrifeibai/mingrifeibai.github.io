@@ -10,8 +10,8 @@ favicon        = "img/favicon.png"
 SortBy              = "default"
 
 [footer]
-    since      = 2020
-    customText = ""
+    since      = 2026
+    customText = "始于2026，记录生活，学习与工作 ~"
 
 [dateFormat]
     published   = ":date_full"
@@ -19,7 +19,7 @@ SortBy              = "default"
 
 [sidebar]
     emoji    = "🍥"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    subtitle = "朕的伴食中书们呢？又去摸鱼了？！"
     avatar   = "img/avatar.png"
 
 [article]
@@ -40,9 +40,9 @@ SortBy              = "default"
     ]
     page = [{ type = "toc" }]
 
-[opengraph.twitter]
-    site = ""
-    card = "summary_large_image"
+# [opengraph.twitter]
+#     site = ""
+#     card = "summary_large_image"
 
 [colorScheme]
     toggle  = true
