@@ -64,7 +64,7 @@ SortBy              = "default"
         reactionsEnabled = 1
         emitMetadata     = 0
         inputPosition    = "top"
-        lang             = "cn"
+        lang             = "zh-CN"
         strict           = 0
         loading          = "lazy"
     # See all the available configurations at https://github.com/CaiJimmy/hugo-theme-stack/blob/master/config/_default/params.toml
