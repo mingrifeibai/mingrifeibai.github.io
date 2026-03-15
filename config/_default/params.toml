@@ -51,7 +51,21 @@ SortBy              = "default"
 ## Comments
 [comments]
     enabled  = true
-    provider = "disqus"
-
+    provider = "giscus"
+    
+    [comments.giscus]
+        repo             = "mingrifeibai/mingrifeibai.github.io"
+        repoID           = "R_kgDORm-Wqg"
+        category         = "Announcements"
+        categoryID       = "DIC_kwDORm-Wqs4C4YsD"
+        mapping          = "pathname"
+        lightTheme       = "light"
+        darkTheme        = "dark_dimmed"
+        reactionsEnabled = 1
+        emitMetadata     = 0
+        inputPosition    = "top"
+        lang             = "cn"
+        strict           = 0
+        loading          = "lazy"
     # See all the available configurations at https://github.com/CaiJimmy/hugo-theme-stack/blob/master/config/_default/params.toml
     # Copy the configurations you need from there and paste it here.
